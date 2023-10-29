@@ -2,11 +2,11 @@
 <contentList>   
 	<!-- Burner Chest Conjuring Ring  -->
 	<content contentuid="h738c7be1g4520g49edg917dgb6f32fb3b401" version="1">Burner Chest Conjuring Ring</content>
-	<content contentuid="h397a4989g3327g45degb1e3g6870db15bf24" version="1">Use the spell to conjure a chest for deletion of unnecessary items.</content>
+	<content contentuid="h397a4989g3327g45degb1e3g6870db15bf24" version="1">Use the spell to conjure a chest for deletion of unwanted items.</content>
 	<!-- Conjure Burner Chest Spell  -->
 	<content contentuid="h12a22cc3g25f5g417agb90cg818ebb7f7e05" version="1">Conjure Burner Chest</content>
-	<content contentuid="h2fcbd5c9g9641g4fa2g811bg3888db4b7e40" version="1">Conjure a chest for deletion of unnecessary items.</content>
+	<content contentuid="h2fcbd5c9g9641g4fa2g811bg3888db4b7e40" version="1">Conjure a chest for deletion of unwanted items.</content>
 	<!-- Burner Chest Object  -->
 	<content contentuid="h2ad10914g544fg4cd2ga5a6g73dbaf9facef" version="1">Burner Chest</content>
-	<content contentuid="h1c322a74g0eaeg4840ga256g622823a6bb23" version="1">A conjured chest for deletion of unnecessary items. Add your items to the chest, then destroy the chest with any attack.</content>
+	<content contentuid="h1c322a74g0eaeg4840ga256g622823a6bb23" version="1">A conjured chest for deletion of unwanted items. Add your items to the chest, then destroy the chest with any attack.</content>
 </contentList>
