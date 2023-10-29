@@ -31,9 +31,13 @@ There may be a number of reasons to do this.  For example, you might want to eli
 4. Deactivate and remove the mod from the mod order list using your mod manager, then save the mod order list and re-export it (or use published instructions to do this manually).
 5. Launch BG3 and continue on the save above. The "Burner Chest Conjuring Ring" will no longer be available in the merchant inventory.
 
+## Develop
+
+The mod source is defined in the `Burner` directory of this repository.  Make your edits, then re-package the `Burner.pak` mod in a `Burner.zip` archive with the [Baldur's Gate 3 Modder's Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool).
+
 ## Issues
 
-Please use [the tracker on this repository](https://github.com/blaksheep/bg3-burner/issues) to identify existing and [report new issues](https://github.com/blaksheep/bg3-burner/issues/new).
+Please use [the tracker on this repository](https://github.com/blaksheep/bg3-burner/issues) to identify existing and [report new issues](https://github.com/blaksheep/bg3-burner/issues/new).  Please do consider proposing any useful new changes that you make in this upstream repository!
 
 ## License
 
