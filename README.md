@@ -18,10 +18,10 @@ There may be a number of reasons to do this.  For example, you might want to eli
 ## Mod Usage
 
 1. Purchase the "Burner Chest Conjuring Ring" from the merchant, [Arron](https://bg3.wiki/wiki/Arron).
-2. Equip the ring
+2. Equip the ring.
 3. Click the new "Conjure Burner Chest" spell and target the location where you want to place the Chest on the ground. Use the spell.
 4. Open the chest and deposit all unwanted equipment.
-5. Use any attack on the Chest to destroy it and all enclosed items. The Chest has Sturdy Toughness and you must use at least 10 damage, but has full vulnerability.
+5. Use any attack on the Chest to destroy it and all enclosed items. The Chest has Sturdy Toughness and you must do at least 10 damage, but it has full vulnerability and it should not be difficult to achieve this, even at low levels.
 
 ## Uninstall
 
@@ -41,4 +41,4 @@ Please use [the tracker on this repository](https://github.com/blaksheep/bg3-bur
 
 ## License
 
-The source code in this repository is released under the [Apache License v2.0](LICENSE). Please feel free to use and adapt the source released here according to this license.
+The source code in this repository is released under the [Apache License v2.0](LICENSE). Please feel free to use and adapt the source according to this license.
