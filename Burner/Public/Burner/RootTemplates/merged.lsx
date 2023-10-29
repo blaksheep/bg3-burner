@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+			    <!-- Burner Chest Summoning Ring -->
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h738c7be1g4520g49edg917dgb6f32fb3b401" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h397a4989g3327g45degb1e3g6870db15bf24" version="1" />
+					<attribute id="MapKey" type="FixedString" value="fa52dda9-fc49-4682-941f-0038fbad4c7a" />
+					<attribute id="Name" type="LSString" value="BRN_Ring_Conjure_Burner_Chest" />
+					<attribute id="Stats" type="FixedString" value="BRN_Ring_Conjure_Burner_Chest" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_C_Silver_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fc44cf0e-04dc-4feb-b143-b1c52cffe252" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<!-- Burner Chest -->
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h2ad10914g544fg4cd2ga5a6g73dbaf9facef" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h1c322a74g0eaeg4840ga256g622823a6bb23" version="1" />
+					<attribute id="MapKey" type="FixedString" value="a1e407ca-5e27-4c7c-86f4-51e92212a60b" />
+					<attribute id="Name" type="LSString" value="BRN_OBJ_Burner_Chest" />
+					<attribute id="Stats" type="FixedString" value="BRN_OBJ_Burner_Chest" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="Icon" type="FixedString" value="Item_CONT_MF_Chest_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="813c005f-72ab-4806-ad7e-2e3135e41d27" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="TreasureOnDestroy" type="bool" value="False" />
+					<attribute id="InventoryType" type="uint8" value="24" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<children>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="5" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="TargetItemState" type="uint8" value="0" />
+											<attribute id="ExplodeFX" type="FixedString" value="15362651-9b96-579a-86f5-829e53325d8b" />
+											<attribute id="visualDestruction" type="FixedString" value="" />
+											<attribute id="VisualWithDynamicPhysics" type="FixedString" value="d4b396ca-bf26-e84b-3f1f-9753fb4f02a0" />
+											<attribute id="FadeOutDelay" type="float" value="0" />
+											<attribute id="FadeOutFX" type="FixedString" value="" />
+											<attribute id="templateAfterDestruction" type="FixedString" value="3db04273-62fb-4530-b17f-c811f57fc4e9" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="BRN_OBJ_Burner_Chest_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

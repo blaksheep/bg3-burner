@@ -1,0 +1,7 @@
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_BRN_Ring_Conjure_Burner_Chest",1,0,0,0,0,0,0,0
+
+new treasuretable "BRN_OBJ_Burner_Chest_TT"
+new subtable "1,1"
