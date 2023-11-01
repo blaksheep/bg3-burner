@@ -17,7 +17,12 @@ There may be a number of reasons to do this.  For example, you might want to eli
 
 ## Mod Usage
 
-1. Purchase the "Burner Chest Conjuring Ring" from the merchant, [Arron](https://bg3.wiki/wiki/Arron).
+1. Obtain the "Burner Chest Conjuring Ring" from one of the following locations:
+    - [Cartilaginous Chest](https://bg3.wiki/wiki/Cartilaginous_Chest) - in the Nautiloid tutorial area
+    - [Arron](https://bg3.wiki/wiki/Arron) - a merchant in Druid Grove
+    - [Grat](https://bg3.wiki/wiki/Grat) - a Goblin Camp festitivites merchant
+    - [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra) - a Moonrise Tower merchant
+    - [Quartermaster Talli](https://bg3.wiki/wiki/Talli) - a Last Light Inn merchant
 2. Equip the ring.
 3. Click the new "Conjure Burner Chest" spell and target the location where you want to place the Chest on the ground. Use the spell.
 4. Open the chest and deposit all unwanted equipment.
