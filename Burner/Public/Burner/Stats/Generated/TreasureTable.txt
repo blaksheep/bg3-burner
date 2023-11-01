@@ -1,7 +1,27 @@
+new treasuretable "BRN_OBJ_Burner_Chest_TT"
+new subtable "1,1"
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_BRN_Ring_Conjure_Burner_Chest",1,0,0,0,0,0,0,0
+
 new treasuretable "DEN_Entrance_Trade"
 CanMerge 1
 new subtable "1,1"
 object category "I_BRN_Ring_Conjure_Burner_Chest",1,0,0,0,0,0,0,0
 
-new treasuretable "BRN_OBJ_Burner_Chest_TT"
+new treasuretable "GOB_Festivities_Trader"
+CanMerge 1
 new subtable "1,1"
+object category "I_BRN_Ring_Conjure_Burner_Chest",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_InfernalTrader_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_BRN_Ring_Conjure_Burner_Chest",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_BRN_Ring_Conjure_Burner_Chest",1,0,0,0,0,0,0,0
