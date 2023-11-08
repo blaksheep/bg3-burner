@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.2.0
+
+- add simplified Chinese locale support
+- add traditional Chinese locale support
+
 ## v1.1.0
 
 - expanded the locations where the Burner Chest Conjuring Ring can be obtained to include the Cartilaginous Chest, Grat, Araj Oblodra, and Quartermaster Talli
